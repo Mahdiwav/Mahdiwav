@@ -153,12 +153,6 @@ A REST API project for practicing backend fundamentals, API design, CRUD operati
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mahdiwav&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
